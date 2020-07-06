@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Giotto&#39;s blog</title>
+  <title>Giotto的博客</title>
   
   <subtitle>我的想法，文章和照片</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.qingshanzhang.com/"/>
-  <updated>2020-07-05T02:23:40.401Z</updated>
+  <updated>2020-07-06T07:39:07.973Z</updated>
   <id>http://www.qingshanzhang.com/</id>
   
   <author>
-    <name>Qingshan Zhang</name>
+    <name>张庆山</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test article</title>
-    <link href="http://www.qingshanzhang.com/2020/07/04/test-article/"/>
-    <id>http://www.qingshanzhang.com/2020/07/04/test-article/</id>
-    <published>2020-07-04T22:08:57.000Z</published>
-    <updated>2020-07-05T02:23:40.401Z</updated>
+    <title>test</title>
+    <link href="http://www.qingshanzhang.com/2020/07/06/test/"/>
+    <id>http://www.qingshanzhang.com/2020/07/06/test/</id>
+    <published>2020-07-06T07:39:07.973Z</published>
+    <updated>2020-07-06T07:39:07.973Z</updated>
     
     <summary type="html">
     
@@ -29,8 +29,10 @@
       
         
         
-          &lt;h1 id=&quot;test&quot;&gt;&lt;a href=&quot;#test&quot; class=&quot;headerlink&quot; title=&quot;test&quot;&gt;&lt;/a&gt;test&lt;/h1&gt;&lt;p&gt;test&lt;/p&gt;
-&lt;script&gt;
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
        
         
       
