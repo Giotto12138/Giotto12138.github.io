@@ -10,7 +10,7 @@
   <id>http://www.qingshanzhang.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Qingshan Zhang</name>
     
   </author>
   
@@ -32,29 +32,6 @@
           &lt;h1 id=&quot;test&quot;&gt;&lt;a href=&quot;#test&quot; class=&quot;headerlink&quot; title=&quot;test&quot;&gt;&lt;/a&gt;test&lt;/h1&gt;&lt;p&gt;test&lt;/p&gt;
 &lt;script&gt;
        
-        
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://www.qingshanzhang.com/2020/07/04/hello-world/"/>
-    <id>http://www.qingshanzhang.com/2020/07/04/hello-world/</id>
-    <published>2020-07-04T04:49:11.438Z</published>
-    <updated>2020-07-04T04:49:11.439Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
         
       
     
