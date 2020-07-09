@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Giotto&#39;s blog</title>
+  
+  <subtitle>My thoughts, articles and photos</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.qingshanzhang.com/"/>
+  <updated>2020-07-09T03:43:13.889Z</updated>
+  <id>http://www.qingshanzhang.com/</id>
+  
+  <author>
+    <name>Qingshan Zhang</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Information Security &amp; Silicon Valley</title>
+    <link href="http://www.qingshanzhang.com/2020/07/08/silicon-valley-infosec/"/>
+    <id>http://www.qingshanzhang.com/2020/07/08/silicon-valley-infosec/</id>
+    <published>2020-07-08T04:00:00.000Z</published>
+    <updated>2020-07-09T03:43:13.889Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Silicon Valley is one of my favorite American TV shows. It tells the story of Richard, a gifted programmer, who accidentally invented a
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Information Security" scheme="http://www.qingshanzhang.com/tags/Information-Security/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>信息安全与美剧硅谷</title>
+    <link href="http://www.qingshanzhang.com/2020/07/07/huo-gu-he-xin-an/"/>
+    <id>http://www.qingshanzhang.com/2020/07/07/huo-gu-he-xin-an/</id>
+    <published>2020-07-07T04:00:00.000Z</published>
+    <updated>2020-07-08T23:37:00.936Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;硅谷（Silicon
+        
+      
+    
+    </summary>
+    
+    
+      <category term="信息安全" scheme="http://www.qingshanzhang.com/categories/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/"/>
+    
+      <category term="美剧硅谷" scheme="http://www.qingshanzhang.com/categories/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/%E7%BE%8E%E5%89%A7%E7%A1%85%E8%B0%B7/"/>
+    
+    
+  </entry>
+  
+</feed>
