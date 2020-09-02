@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.qingshanzhang.com/"/>
-  <updated>2020-09-01T14:51:20.764Z</updated>
+  <updated>2020-09-02T02:44:47.671Z</updated>
   <id>http://www.qingshanzhang.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的AWS Solutions Architect Associate证书备考建议</title>
+    <link href="http://www.qingshanzhang.com/2020/09/01/aws-saa-zheng-shu/"/>
+    <id>http://www.qingshanzhang.com/2020/09/01/aws-saa-zheng-shu/</id>
+    <published>2020-09-01T23:10:00.000Z</published>
+    <updated>2020-09-02T02:44:47.671Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;考证原因&quot;&gt;&lt;a href=&quot;#考证原因&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="证书" scheme="http://www.qingshanzhang.com/categories/%E8%AF%81%E4%B9%A6/"/>
+    
+      <category term="AWS" scheme="http://www.qingshanzhang.com/categories/%E8%AF%81%E4%B9%A6/AWS/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>学习信息安全所能带给我的(持续更新。。。)</title>
