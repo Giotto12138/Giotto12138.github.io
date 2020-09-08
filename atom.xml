@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.qingshanzhang.com/"/>
-  <updated>2020-09-08T18:29:46.139Z</updated>
+  <updated>2020-09-08T21:24:08.145Z</updated>
   <id>http://www.qingshanzhang.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Giotto</title>
+    <title>How to read Giotto (如何读Giotto)</title>
     <link href="http://www.qingshanzhang.com/2020/09/08/giotto/"/>
     <id>http://www.qingshanzhang.com/2020/09/08/giotto/</id>
-    <published>2020-09-08T15:30:48.566Z</published>
-    <updated>2020-09-08T18:29:46.139Z</updated>
+    <published>2020-09-08T04:00:00.000Z</published>
+    <updated>2020-09-08T21:24:08.145Z</updated>
     
     <summary type="html">
     
@@ -29,14 +29,20 @@
       
         
         
-          &lt;hr&gt;
-&lt;p&gt;title: How to read Giotto (如何读Giotto)&lt;br&gt;author: Qingshan Zhang&lt;br&gt;img: /medias/Giotto/cover.jpg&lt;br&gt;top: true&lt;br&gt;cover:
+          &lt;table&gt;  
+&lt;tbody&gt;&lt;tr&gt;  
+&lt;td&gt;  
+&lt;img
         
       
     
     </summary>
     
     
+      <category term="Giotto" scheme="http://www.qingshanzhang.com/categories/Giotto/"/>
+    
+    
+      <category term="Giotto" scheme="http://www.qingshanzhang.com/tags/Giotto/"/>
     
   </entry>
   
