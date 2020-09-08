@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.qingshanzhang.com/"/>
-  <updated>2020-09-02T02:44:47.671Z</updated>
+  <updated>2020-09-08T18:29:46.139Z</updated>
   <id>http://www.qingshanzhang.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Giotto</title>
+    <link href="http://www.qingshanzhang.com/2020/09/08/giotto/"/>
+    <id>http://www.qingshanzhang.com/2020/09/08/giotto/</id>
+    <published>2020-09-08T15:30:48.566Z</published>
+    <updated>2020-09-08T18:29:46.139Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;hr&gt;
+&lt;p&gt;title: How to read Giotto (如何读Giotto)&lt;br&gt;author: Qingshan Zhang&lt;br&gt;img: /medias/Giotto/cover.jpg&lt;br&gt;top: true&lt;br&gt;cover:
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>我的AWS Solutions Architect Associate证书备考建议</title>
@@ -91,9 +115,9 @@
     
     
     
-      <category term="Thoughts" scheme="http://www.qingshanzhang.com/tags/Thoughts/"/>
-    
       <category term="Information Security" scheme="http://www.qingshanzhang.com/tags/Information-Security/"/>
+    
+      <category term="Thoughts" scheme="http://www.qingshanzhang.com/tags/Thoughts/"/>
     
   </entry>
   
