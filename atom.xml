@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.qingshanzhang.com/"/>
-  <updated>2020-09-29T20:51:22.684Z</updated>
+  <updated>2020-09-08T21:30:21.755Z</updated>
   <id>http://www.qingshanzhang.com/</id>
   
   <author>
@@ -15,33 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>开源剧本创作(open source scripts writing)</title>
-    <link href="http://www.qingshanzhang.com/2020/09/29/kai-yuan-ju-ben-chuang-zuo-open-source-scripts/"/>
-    <id>http://www.qingshanzhang.com/2020/09/29/kai-yuan-ju-ben-chuang-zuo-open-source-scripts/</id>
-    <published>2020-09-29T19:10:00.000Z</published>
-    <updated>2020-09-29T20:51:22.684Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;我一直对于影视动漫的剧本创作很有兴趣，我相信我是一个十分有创造能力、想象力的人，即使我现在没有时间和能力实现我的想法，但我要记录现在点点滴滴的灵感。开源剧本创作就是这些想法我都公开出来，欢迎所有人提“增删改查”commit。&lt;br&gt;github地址: &lt;a
-        
-      
-    
-    </summary>
-    
-    
-      <category term="想法" scheme="http://www.qingshanzhang.com/categories/%E6%83%B3%E6%B3%95/"/>
-    
-    
-      <category term="Thoughts" scheme="http://www.qingshanzhang.com/tags/Thoughts/"/>
-    
-  </entry>
   
   <entry>
     <title>Why Giotto</title>
