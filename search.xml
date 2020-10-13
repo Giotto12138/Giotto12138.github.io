@@ -4,6 +4,52 @@
   
     
     <entry>
+      <title>Cloud Computing Security Practice</title>
+      <link href="/2020/10/13/cloud-computing-security-practice/"/>
+      <url>/2020/10/13/cloud-computing-security-practice/</url>
+      
+        <content type="html"><![CDATA[<h1 id="website-address"><a href="#website-address" class="headerlink" title="website address:"></a>website address:</h1><p><a href="https://qingshan-cloud-security.ue.r.appspot.com/" target="_blank" rel="noopener">https://qingshan-cloud-security.ue.r.appspot.com/</a>  </p><h1 id="GitHub-address"><a href="#GitHub-address" class="headerlink" title="GitHub address:"></a>GitHub address:</h1><p><a href="https://github.com/Giotto12138/Cloud-Computing-Security" target="_blank" rel="noopener">https://github.com/Giotto12138/Cloud-Computing-Security</a></p><h2 id="Basic-functions"><a href="#Basic-functions" class="headerlink" title="Basic functions"></a>Basic functions</h2><ol><li>A simple event management website based on Flask + GCP. All HTML and JavaScript is served statically to keep secure. </li><li>Users can upload events and dates, or delete events.   </li><li>The website could update the remaining time of the event in real time and delete expired events.  </li><li>Yearless dates work, showing time to next occurrence of a matching date (e.g., 03-01 means “every March 1st”)  </li></ol><h2 id="Password-Based-Authentication"><a href="#Password-Based-Authentication" class="headerlink" title="Password-Based Authentication"></a>Password-Based Authentication</h2><ol><li>Added authentication to the website. All of the events are tied to one and only one user; every user manages a unique set of data just for them. When not logged in, the user is automatically directed to a login page.  </li><li>All interactions are over HTTPS to secure data transmitting.  </li><li>Provided a registration page that allows the user to provide a username and password, then immediately logs them in and redirects them to the main page.  </li><li>Provided a login page that allows the user to provide a username and password. If the username and password are valid, let the user log in.  </li><li>Users must login with an opaque session token. Implemented this function without built-in functions like flask.session or flask.login. Users could register, login, and logout with a session token. Session tokens expire after 1 hour. Enforce this by deleting the cookie when an expired session token is used.  </li><li>Added a logout button that invalidates the session token, removes the cookie, and redirects the user to the login page.  </li><li>Only secure derivatives of passwords are stored in the database. Used Bcypt library for key stretching.  </li><li>built a migration function, which could migrate old data to the first user (or a user that you want to have the original data).</li><li>Check the login status of users in real time. JSON calls will redirect the entire browser window to the login page when they fail due to a missing (or expired) session token.  </li></ol><h2 id="Implement-an-OpenID-Connect-Client"><a href="#Implement-an-OpenID-Connect-Client" class="headerlink" title="Implement an OpenID Connect Client"></a>Implement an OpenID Connect Client</h2><ol><li>Implemented an OpenID Connect Client to login with Google. Users could click a third-party OpenID Connect button to their login page.</li><li>Added CSRF protection by double cookie verification.</li></ol><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Information Security </tag>
+            
+            <tag> Cloud Security </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>开源剧本创作(open source scripts writing)</title>
+      <link href="/2020/09/29/kai-yuan-ju-ben-chuang-zuo-open-source-scripts/"/>
+      <url>/2020/09/29/kai-yuan-ju-ben-chuang-zuo-open-source-scripts/</url>
+      
+        <content type="html"><![CDATA[<p>我一直对于影视动漫的剧本创作很有兴趣，我相信我是一个十分有创造能力、想象力的人，即使我现在没有时间和能力实现我的想法，但我要记录现在点点滴滴的灵感。开源剧本创作就是这些想法我都公开出来，欢迎所有人提“增删改查”commit。<br>github地址: <a href="https://github.com/Giotto12138/Open-Source-Scripts-Writing" target="_blank" rel="noopener">https://github.com/Giotto12138/Open-Source-Scripts-Writing</a></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 想法 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Thoughts </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Why Giotto</title>
       <link href="/2020/09/08/giotto/"/>
       <url>/2020/09/08/giotto/</url>
