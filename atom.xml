@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.qingshanzhang.com/"/>
-  <updated>2020-10-15T01:08:03.341Z</updated>
+  <updated>2020-10-15T01:46:06.546Z</updated>
   <id>http://www.qingshanzhang.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>A discussion on multiple authentication strategies</title>
+    <link href="http://www.qingshanzhang.com/2020/10/14/a-discussion-on-multiple-authentication-strategies/"/>
+    <id>http://www.qingshanzhang.com/2020/10/14/a-discussion-on-multiple-authentication-strategies/</id>
+    <published>2020-10-14T04:00:00.000Z</published>
+    <updated>2020-10-15T01:46:06.546Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;1-Objective&quot;&gt;&lt;a href=&quot;#1-Objective&quot; class=&quot;headerlink&quot; title=&quot;1.Objective:&quot;&gt;&lt;/a&gt;1.Objective:&lt;/h3&gt;&lt;p&gt;To design an online health care
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Information Security" scheme="http://www.qingshanzhang.com/tags/Information-Security/"/>
+    
+      <category term="Authentication" scheme="http://www.qingshanzhang.com/tags/Authentication/"/>
+    
+  </entry>
   
   <entry>
     <title>云安全小项目</title>
@@ -292,7 +319,7 @@
     <link href="http://www.qingshanzhang.com/2020/07/08/silicon-valley-infosec/"/>
     <id>http://www.qingshanzhang.com/2020/07/08/silicon-valley-infosec/</id>
     <published>2020-07-08T04:00:00.000Z</published>
-    <updated>2020-09-05T15:30:47.303Z</updated>
+    <updated>2020-10-15T01:28:12.633Z</updated>
     
     <summary type="html">
     
@@ -310,7 +337,7 @@
     
       <category term="Information Security" scheme="http://www.qingshanzhang.com/tags/Information-Security/"/>
     
-      <category term="Movie and Television" scheme="http://www.qingshanzhang.com/tags/Movie-and-Television/"/>
+      <category term="Movie and Television Program" scheme="http://www.qingshanzhang.com/tags/Movie-and-Television-Program/"/>
     
   </entry>
   
