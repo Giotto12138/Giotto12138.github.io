@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.qingshanzhang.com/"/>
-  <updated>2020-10-15T01:46:06.546Z</updated>
+  <updated>2020-10-16T17:48:22.657Z</updated>
   <id>http://www.qingshanzhang.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>A discussion on multiple authentication strategies</title>
-    <link href="http://www.qingshanzhang.com/2020/10/14/a-discussion-on-multiple-authentication-strategies/"/>
-    <id>http://www.qingshanzhang.com/2020/10/14/a-discussion-on-multiple-authentication-strategies/</id>
-    <published>2020-10-14T04:00:00.000Z</published>
-    <updated>2020-10-15T01:46:06.546Z</updated>
+    <title>Container Hardening</title>
+    <link href="http://www.qingshanzhang.com/2020/10/16/container-hardening/"/>
+    <id>http://www.qingshanzhang.com/2020/10/16/container-hardening/</id>
+    <published>2020-10-16T04:00:00.000Z</published>
+    <updated>2020-10-16T17:48:22.657Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,34 @@
       
         
         
-          &lt;h3 id=&quot;1-Objective&quot;&gt;&lt;a href=&quot;#1-Objective&quot; class=&quot;headerlink&quot; title=&quot;1.Objective:&quot;&gt;&lt;/a&gt;1.Objective:&lt;/h3&gt;&lt;p&gt;To design an online health care
+          &lt;h2 id=&quot;Container-Hardening&quot;&gt;&lt;a href=&quot;#Container-Hardening&quot; class=&quot;headerlink&quot; title=&quot;Container Hardening&quot;&gt;&lt;/a&gt;Container Hardening&lt;/h2&gt;&lt;h3
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Information Security" scheme="http://www.qingshanzhang.com/tags/Information-Security/"/>
+    
+      <category term="Container" scheme="http://www.qingshanzhang.com/tags/Container/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>A discussion on multiple authentication strategies</title>
+    <link href="http://www.qingshanzhang.com/2020/10/14/a-discussion-on-multiple-authentication-strategies/"/>
+    <id>http://www.qingshanzhang.com/2020/10/14/a-discussion-on-multiple-authentication-strategies/</id>
+    <published>2020-10-14T04:00:00.000Z</published>
+    <updated>2020-10-16T17:46:34.230Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;A-discussion-on-multiple-authentication-strategies&quot;&gt;&lt;a href=&quot;#A-discussion-on-multiple-authentication-strategies&quot;
         
       
     
