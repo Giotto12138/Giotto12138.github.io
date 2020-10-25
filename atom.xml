@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.qingshanzhang.com/"/>
-  <updated>2020-10-16T17:48:22.657Z</updated>
+  <updated>2020-10-25T06:04:59.114Z</updated>
   <id>http://www.qingshanzhang.com/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>CVE-2019-5736 runC Docker Escape Vulnerability</title>
+    <link href="http://www.qingshanzhang.com/2020/10/25/runc/"/>
+    <id>http://www.qingshanzhang.com/2020/10/25/runc/</id>
+    <published>2020-10-25T06:00:00.000Z</published>
+    <updated>2020-10-25T06:04:59.114Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;CVE-2019-5736-runC-Docker-Escape-Vulnerability&quot;&gt;&lt;a href=&quot;#CVE-2019-5736-runC-Docker-Escape-Vulnerability&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Information Security" scheme="http://www.qingshanzhang.com/tags/Information-Security/"/>
+    
+      <category term="Container" scheme="http://www.qingshanzhang.com/tags/Container/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Container Hardening</title>
     <link href="http://www.qingshanzhang.com/2020/10/16/container-hardening/"/>
     <id>http://www.qingshanzhang.com/2020/10/16/container-hardening/</id>
     <published>2020-10-16T04:00:00.000Z</published>
-    <updated>2020-10-16T17:48:22.657Z</updated>
+    <updated>2020-10-24T21:51:37.932Z</updated>
     
     <summary type="html">
     
