@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.qingshanzhang.com/"/>
-  <updated>2020-12-07T04:24:05.378Z</updated>
+  <updated>2020-12-07T04:36:19.663Z</updated>
   <id>http://www.qingshanzhang.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>SEED Labs实验回顾，总结，巩固，分享</title>
+    <link href="http://www.qingshanzhang.com/2020/12/06/seed/"/>
+    <id>http://www.qingshanzhang.com/2020/12/06/seed/</id>
+    <published>2020-12-07T04:32:00.000Z</published>
+    <updated>2020-12-07T04:36:19.663Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;根据雪城大学Wenliang Du教授的SEED Labs，尽可能多的实现其中的实验。先顺着Security and Privacy of
+        
+      
+    
+    </summary>
+    
+    
+      <category term="信息安全" scheme="http://www.qingshanzhang.com/categories/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/"/>
+    
+      <category term="SEED Labs" scheme="http://www.qingshanzhang.com/categories/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/SEED-Labs/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>计算机学习资源总结，推荐(持续更新。。。)</title>
@@ -375,7 +402,7 @@
     <link href="http://www.qingshanzhang.com/2020/07/10/hao-wan-de-chrome-cha-jian-ji-he/"/>
     <id>http://www.qingshanzhang.com/2020/07/10/hao-wan-de-chrome-cha-jian-ji-he/</id>
     <published>2020-07-11T02:54:20.000Z</published>
-    <updated>2020-12-07T00:49:27.162Z</updated>
+    <updated>2020-12-07T04:27:44.250Z</updated>
     
     <summary type="html">
     
