@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.qingshanzhang.com/"/>
-  <updated>2020-11-18T18:47:19.973Z</updated>
+  <updated>2020-12-07T04:24:05.378Z</updated>
   <id>http://www.qingshanzhang.com/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>计算机学习资源总结，推荐(持续更新。。。)</title>
+    <link href="http://www.qingshanzhang.com/2020/11/29/xue-xi-zi-yuan/"/>
+    <id>http://www.qingshanzhang.com/2020/11/29/xue-xi-zi-yuan/</id>
+    <published>2020-11-29T18:10:00.000Z</published>
+    <updated>2020-12-07T04:24:05.378Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;2020.11.29起，开始记录一些看到的不错的计算机相关的学习资源。欢迎大家踊跃提供不错的学习资源，我会写个致谢加粗放在文章前面。可以在底下留言或者直接联系我。&lt;/p&gt;
+&lt;br&gt;
+
+&lt;h3 id=&quot;主要来源&quot;&gt;&lt;a href=&quot;#主要来源&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="计算机" scheme="http://www.qingshanzhang.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+      <category term="资源" scheme="http://www.qingshanzhang.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E8%B5%84%E6%BA%90/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>CVE-2019-5736 runC Docker Escape Vulnerability</title>
@@ -345,7 +375,7 @@
     <link href="http://www.qingshanzhang.com/2020/07/10/hao-wan-de-chrome-cha-jian-ji-he/"/>
     <id>http://www.qingshanzhang.com/2020/07/10/hao-wan-de-chrome-cha-jian-ji-he/</id>
     <published>2020-07-11T02:54:20.000Z</published>
-    <updated>2020-07-15T03:22:10.856Z</updated>
+    <updated>2020-12-07T00:49:27.162Z</updated>
     
     <summary type="html">
     
@@ -353,10 +383,10 @@
       
         
         
-          &lt;p&gt;&lt;big&gt; 致谢：&lt;strong&gt;马向君&lt;/strong&gt; &lt;/big&gt;&lt;br&gt;欢迎大家踊跃提供好用的插件，我都会写个致谢加粗放在文章前面。可以在底下留言或者直接联系我。&lt;/p&gt;
+          &lt;p&gt;&lt;big&gt; 致谢：&lt;strong&gt;马向君&lt;/strong&gt; &lt;strong&gt;零度解说&lt;/strong&gt;&lt;/big&gt;&lt;br&gt;欢迎大家踊跃提供好用的插件，我都会写个致谢加粗放在文章前面。可以在底下留言或者直接联系我。&lt;/p&gt;
 &lt;br&gt;
 
-&lt;h3 id=&quot;沙拉查词-彩云小译&quot;&gt;&lt;a href=&quot;#沙拉查词-彩云小译&quot;
+&lt;h3
         
       
     
