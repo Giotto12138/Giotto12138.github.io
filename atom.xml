@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.qingshanzhang.com/"/>
-  <updated>2020-12-07T19:10:36.610Z</updated>
+  <updated>2020-12-09T00:49:21.401Z</updated>
   <id>http://www.qingshanzhang.com/</id>
   
   <author>
@@ -15,6 +15,64 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Security Isolation of Kubernetes multi tenancy Cluster</title>
+    <link href="http://www.qingshanzhang.com/2020/12/08/security-isolation-of-kubernetes-multi-tenancy-cluster/"/>
+    <id>http://www.qingshanzhang.com/2020/12/08/security-isolation-of-kubernetes-multi-tenancy-cluster/</id>
+    <published>2020-12-08T21:53:00.000Z</published>
+    <updated>2020-12-09T00:49:21.401Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;This is a research on isolation measures of Kubernetes multi tenancy cluster. &lt;big&gt; We just collected information and wrote a
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Information Security" scheme="http://www.qingshanzhang.com/tags/Information-Security/"/>
+    
+      <category term="Cloud Security" scheme="http://www.qingshanzhang.com/tags/Cloud-Security/"/>
+    
+      <category term="Kubernetes" scheme="http://www.qingshanzhang.com/tags/Kubernetes/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Security Isolation of Kubernetes multi tenancy Cluster</title>
+    <link href="http://www.qingshanzhang.com/2020/12/08/multi-tenency/"/>
+    <id>http://www.qingshanzhang.com/2020/12/08/multi-tenency/</id>
+    <published>2020-12-08T21:53:00.000Z</published>
+    <updated>2020-12-08T22:51:57.374Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Security-Isolation-of-Kubernetes-multi-tenancy-Cluster&quot;&gt;&lt;a href=&quot;#Security-Isolation-of-Kubernetes-multi-tenancy-Cluster&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Information Security" scheme="http://www.qingshanzhang.com/tags/Information-Security/"/>
+    
+      <category term="Cloud Security" scheme="http://www.qingshanzhang.com/tags/Cloud-Security/"/>
+    
+      <category term="Kubernetes" scheme="http://www.qingshanzhang.com/tags/Kubernetes/"/>
+    
+  </entry>
   
   <entry>
     <title>SEED Labs实验回顾，总结，巩固，分享</title>
@@ -238,36 +296,6 @@
   </entry>
   
   <entry>
-    <title>Why Giotto</title>
-    <link href="http://www.qingshanzhang.com/2020/09/08/giotto/"/>
-    <id>http://www.qingshanzhang.com/2020/09/08/giotto/</id>
-    <published>2020-09-08T04:00:00.000Z</published>
-    <updated>2020-09-08T21:30:21.755Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;Why-Giotto&quot;&gt;&lt;a href=&quot;#Why-Giotto&quot; class=&quot;headerlink&quot; title=&quot;Why Giotto&quot;&gt;&lt;/a&gt;Why Giotto&lt;/h2&gt;&lt;table&gt;  
-&lt;tbody&gt;&lt;tr&gt;  
-&lt;td&gt;  
-&lt;img
-        
-      
-    
-    </summary>
-    
-    
-      <category term="Giotto" scheme="http://www.qingshanzhang.com/categories/Giotto/"/>
-    
-    
-      <category term="Giotto" scheme="http://www.qingshanzhang.com/tags/Giotto/"/>
-    
-  </entry>
-  
-  <entry>
     <title>我的AWS Solutions Architect Associate证书备考建议</title>
     <link href="http://www.qingshanzhang.com/2020/09/01/aws-saa-zheng-shu/"/>
     <id>http://www.qingshanzhang.com/2020/09/01/aws-saa-zheng-shu/</id>
@@ -299,7 +327,7 @@
     <link href="http://www.qingshanzhang.com/2020/08/25/xue-xi-xin-xi-an-quan-suo-neng-dai-gei-wo-de/"/>
     <id>http://www.qingshanzhang.com/2020/08/25/xue-xi-xin-xi-an-quan-suo-neng-dai-gei-wo-de/</id>
     <published>2020-08-25T23:27:56.000Z</published>
-    <updated>2020-12-07T20:31:20.534Z</updated>
+    <updated>2020-12-08T22:40:00.271Z</updated>
     
     <summary type="html">
     
