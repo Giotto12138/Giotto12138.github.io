@@ -199,27 +199,6 @@
     
     
     <entry>
-      <title>修道德经感悟</title>
-      <link href="/2020/09/01/laozi/"/>
-      <url>/2020/09/01/laozi/</url>
-      
-        <content type="html"><![CDATA[<script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
-      
-      
-      <categories>
-          
-          <category> 证书 </category>
-          
-          <category> AWS </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>我的AWS Solutions Architect Associate证书备考建议</title>
       <link href="/2020/09/01/aws-saa-zheng-shu/"/>
       <url>/2020/09/01/aws-saa-zheng-shu/</url>
