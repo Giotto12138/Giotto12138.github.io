@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.qingshanzhang.com/"/>
-  <updated>2020-12-20T05:45:20.461Z</updated>
+  <updated>2020-12-20T19:17:23.855Z</updated>
   <id>http://www.qingshanzhang.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>20年24个安全小练习到圣诞笔记</title>
+    <title>20年安全小练习到圣诞笔（更新中）</title>
     <link href="http://www.qingshanzhang.com/2020/12/19/20-nian-sheng-dan-lian-xi/"/>
     <id>http://www.qingshanzhang.com/2020/12/19/20-nian-sheng-dan-lian-xi/</id>
     <published>2020-12-20T04:48:00.000Z</published>
-    <updated>2020-12-20T05:45:20.461Z</updated>
+    <updated>2020-12-20T19:17:23.855Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,7 @@
       
         
         
-          &lt;p&gt;TryHackMe平台的圣诞练习，24个安全练习一直到12.24。挺好玩的。更重要的是把这些练习的思路记录下来，填补我博客贫瘠的安全技术文o(╥﹏╥)o。这组练习应该还是偏渗透技术的，另外会加深对计算机领域的一些运行机制，底层原理的理解。还有些不错的安全工具也正好了解和熟练
+          &lt;p&gt;我的朋友Victor告诉我TryHackMe平台有个圣诞练习，每天一个安全练习，一直到12.24。挺好玩的。更重要的是把这些练习的思路记录下来，填补我博客贫瘠的安全技术文o(╥﹏╥)o。这组练习应该还是偏渗透技术的，另外会加深对计算机领域的一些运行机制，底层原理的理解。还有
         
       
     
