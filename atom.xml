@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.qingshanzhang.com/"/>
-  <updated>2020-12-25T06:09:43.269Z</updated>
+  <updated>2020-12-25T16:46:09.329Z</updated>
   <id>http://www.qingshanzhang.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>20年12月安全小练习到元旦笔记（更新中）</title>
+    <title>20年12月练到元旦笔记（更新中）</title>
     <link href="http://www.qingshanzhang.com/2020/12/19/20-nian-sheng-dan-lian-xi/"/>
     <id>http://www.qingshanzhang.com/2020/12/19/20-nian-sheng-dan-lian-xi/</id>
     <published>2020-12-20T04:48:00.000Z</published>
-    <updated>2020-12-25T06:09:43.269Z</updated>
+    <updated>2020-12-25T16:46:09.329Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,7 @@
       
         
         
-          &lt;p&gt;我的朋友Victor告诉我TryHackMe平台有个圣诞练习（但由于我太懒了，圣诞前又各种出去玩，就变成目标元旦前完成），每天一个安全练习，一直到12.24。挺好玩的。更重要的是把这些练习的思路记录下来，填补我博客贫瘠的安全技术文o(╥﹏╥)o。这组练习应该还是偏渗透技术的
+          &lt;p&gt;我的朋友Victor告诉我TryHackMe平台有个圣诞练习（但由于我又懒又菜，圣诞前又各种出去玩，就变成目标元旦前完成），每天一个安全练习，一直到12.24。挺好玩的。更重要的是把这些练习的思路记录下来，填补我博客贫瘠的安全技术文o(╥﹏╥)o。这组练习应该还是偏渗透技术
         
       
     
@@ -106,7 +106,7 @@
     <link href="http://www.qingshanzhang.com/2020/11/29/xue-xi-zi-yuan/"/>
     <id>http://www.qingshanzhang.com/2020/11/29/xue-xi-zi-yuan/</id>
     <published>2020-11-29T18:10:00.000Z</published>
-    <updated>2020-12-23T04:53:49.619Z</updated>
+    <updated>2020-12-26T02:36:03.747Z</updated>
     
     <summary type="html">
     
@@ -217,7 +217,7 @@
     <link href="http://www.qingshanzhang.com/2020/10/14/yun-an-quan-xiao-xiang-mu/"/>
     <id>http://www.qingshanzhang.com/2020/10/14/yun-an-quan-xiao-xiang-mu/</id>
     <published>2020-10-14T04:00:00.000Z</published>
-    <updated>2020-10-15T01:08:03.341Z</updated>
+    <updated>2020-12-26T01:23:26.278Z</updated>
     
     <summary type="html">
     
@@ -225,7 +225,8 @@
       
         
         
-          &lt;h1 id=&quot;网站地址&quot;&gt;&lt;a href=&quot;#网站地址&quot; class=&quot;headerlink&quot; title=&quot;网站地址:&quot;&gt;&lt;/a&gt;网站地址:&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;https://qingshan-cloud-security.ue.r.appspot.com/&quot;
+          &lt;p&gt;一个小的云安全练习，来自JHU 2020Fall学期Cloud Computing Security课9月到10月的作业。建立一个基于GCP和Flask的，加入一些安全保护措施的网站。&lt;/p&gt;
+&lt;h1 id=&quot;网站地址&quot;&gt;&lt;a href=&quot;#网站地址&quot;
         
       
     
