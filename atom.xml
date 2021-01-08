@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.qingshanzhang.com/"/>
-  <updated>2021-01-08T05:07:13.461Z</updated>
+  <updated>2021-01-08T05:34:59.473Z</updated>
   <id>http://www.qingshanzhang.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://www.qingshanzhang.com/2020/12/23/20-nian-sheng-dan-lian-xi/"/>
     <id>http://www.qingshanzhang.com/2020/12/23/20-nian-sheng-dan-lian-xi/</id>
     <published>2020-12-24T04:48:00.000Z</published>
-    <updated>2021-01-08T05:07:13.461Z</updated>
+    <updated>2021-01-08T05:34:59.473Z</updated>
     
     <summary type="html">
     
@@ -334,7 +334,10 @@
       
         
         
-          &lt;h2 id=&quot;1-对计算机的探索&quot;&gt;&lt;a href=&quot;#1-对计算机的探索&quot; class=&quot;headerlink&quot; title=&quot;1. 对计算机的探索&quot;&gt;&lt;/a&gt;1.
+          &lt;!-- 英文博文加tag，中文博文加category --&gt;
+&lt;!-- 英文博文加tag，中文博文加category --&gt;
+
+&lt;h2 id=&quot;1-对计算机的探索&quot;&gt;&lt;a href=&quot;#1-对计算机的探索&quot; class=&quot;headerlink&quot; title=&quot;1.
         
       
     
@@ -361,7 +364,10 @@
       
         
         
-          &lt;h2 id=&quot;1-The-Exploration-of-Computer&quot;&gt;&lt;a href=&quot;#1-The-Exploration-of-Computer&quot; class=&quot;headerlink&quot; title=&quot;1. The Exploration of
+          &lt;!-- 英文博文加tag，中文博文加category --&gt;
+&lt;!-- 英文博文加tag，中文博文加category --&gt;
+
+&lt;h2 id=&quot;1-The-Exploration-of-Computer&quot;&gt;&lt;a
         
       
     
@@ -388,7 +394,7 @@
       
         
         
-          &lt;p&gt;&lt;font size=&quot;5&quot;&gt; There are many unsolved mysteries in the world, and I believe many of them, because I have some assumptions about the
+          &lt;p&gt;&lt;font size=5&gt; There are many unsolved mysteries in the world, and I believe many of them, because I have some assumptions about the
         
       
     
@@ -413,8 +419,11 @@
       
         
         
-          &lt;p&gt;&lt;font size=&quot;5&quot;&gt; 这个世界上的未解之谜很多，我也相信其中的很多，因为我对于这些谜的产生有一定的设想。 &lt;/font&gt;&lt;/p&gt;
-&lt;h2 id=&quot;1-未来人穿越猜想&quot;&gt;&lt;a href=&quot;#1-未来人穿越猜想&quot; class=&quot;headerlink&quot; title=&quot;
+          &lt;!-- 英文博文加tag，中文博文加category --&gt;
+&lt;!-- 英文博文加tag，中文博文加category --&gt;
+
+&lt;p&gt;&lt;font size=5&gt; 这个世界上的未解之谜很多，我也相信其中的很多，因为我对于这些谜的产生有一定的设想。 &lt;/font&gt;&lt;/p&gt;
+&lt;h2
         
       
     
@@ -439,10 +448,9 @@
       
         
         
-          &lt;p&gt;&lt;big&gt; 致谢：&lt;strong&gt;马向君&lt;/strong&gt;, &lt;strong&gt;零度解说&lt;/strong&gt;&lt;/big&gt;&lt;br&gt;欢迎大家踊跃提供好用的插件，我都会写个致谢加粗放在文章前面。可以在底下留言或者直接联系我。&lt;/p&gt;
-&lt;br&gt;
-
-&lt;h3
+          &lt;!-- 英文博文加tag，中文博文加category --&gt;
+&lt;!-- 英文博文加tag，中文博文加category --&gt;
+&lt;p&gt;&lt;big&gt; 致谢：&lt;strong&gt;马向君&lt;/strong&gt;,
         
       
     
@@ -467,7 +475,11 @@
       
         
         
-          &lt;p&gt;Silicon Valley is one of my favorite American TV shows. It tells the story of Richard, a gifted programmer, who accidentally invented a
+          &lt;!-- 英文博文加tag，中文博文加category --&gt;
+&lt;!-- 英文博文加tag，中文博文加category --&gt;
+&lt;!-- 英文博文加tag，中文博文加category --&gt;
+
+&lt;p&gt;Silicon Valley is one of my favorite
         
       
     
@@ -494,7 +506,11 @@
       
         
         
-          &lt;p&gt;硅谷（Silicon
+          &lt;!-- 英文博文加tag，中文博文加category --&gt;
+&lt;!-- 英文博文加tag，中文博文加category --&gt;
+
+
+&lt;p&gt;硅谷（Silicon
         
       
     
