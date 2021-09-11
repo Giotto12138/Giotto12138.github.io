@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.qingshanzhang.com/"/>
-  <updated>2021-08-29T18:51:47.579Z</updated>
+  <updated>2021-09-11T18:13:37.969Z</updated>
   <id>http://www.qingshanzhang.com/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>美国找信息安全和计算机类工作总结</title>
+    <link href="http://www.qingshanzhang.com/2021/09/11/mei-guo-zhao-xin-xi-an-quan-gong-zuo-he-ji-suan-ji-lei-gong-zuo-zong-jie/"/>
+    <id>http://www.qingshanzhang.com/2021/09/11/mei-guo-zhao-xin-xi-an-quan-gong-zuo-he-ji-suan-ji-lei-gong-zuo-zong-jie/</id>
+    <published>2021-09-11T05:14:00.000Z</published>
+    <updated>2021-09-11T18:13:37.969Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;在美国找信息安全工作分析和找计算机类工作总结&quot;&gt;&lt;a href=&quot;#在美国找信息安全工作分析和找计算机类工作总结&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="想法" scheme="http://www.qingshanzhang.com/categories/%E6%83%B3%E6%B3%95/"/>
+    
+      <category term="信息安全" scheme="http://www.qingshanzhang.com/categories/%E6%83%B3%E6%B3%95/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/"/>
+    
+      <category term="就业" scheme="http://www.qingshanzhang.com/categories/%E6%83%B3%E6%B3%95/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/%E5%B0%B1%E4%B8%9A/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>As Cybersecurity Novices, What We Could Do to Break into the Promising Cybersecurity Industry</title>
@@ -542,37 +571,6 @@
       <category term="Information Security" scheme="http://www.qingshanzhang.com/tags/Information-Security/"/>
     
       <category term="Movie and Television Program" scheme="http://www.qingshanzhang.com/tags/Movie-and-Television-Program/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>信息安全与美剧硅谷</title>
-    <link href="http://www.qingshanzhang.com/2020/07/07/huo-gu-he-xin-an/"/>
-    <id>http://www.qingshanzhang.com/2020/07/07/huo-gu-he-xin-an/</id>
-    <published>2020-07-07T04:00:00.000Z</published>
-    <updated>2020-09-05T15:29:47.247Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;!-- 英文博文加tag，中文博文加category --&gt;
-&lt;!-- 英文博文加tag，中文博文加category --&gt;
-
-
-&lt;p&gt;硅谷（Silicon
-        
-      
-    
-    </summary>
-    
-    
-      <category term="信息安全" scheme="http://www.qingshanzhang.com/categories/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/"/>
-    
-      <category term="影视" scheme="http://www.qingshanzhang.com/categories/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/%E5%BD%B1%E8%A7%86/"/>
-    
     
   </entry>
   
