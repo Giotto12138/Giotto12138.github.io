@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.qingshanzhang.com/"/>
-  <updated>2021-09-12T13:15:38.757Z</updated>
+  <updated>2021-10-10T13:51:25.583Z</updated>
   <id>http://www.qingshanzhang.com/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>对垃圾产品设计的吐槽</title>
+    <link href="http://www.qingshanzhang.com/2021/10/09/dui-la-ji-she-ji-de-tu-cao/"/>
+    <id>http://www.qingshanzhang.com/2021/10/09/dui-la-ji-she-ji-de-tu-cao/</id>
+    <published>2021-10-10T03:21:00.000Z</published>
+    <updated>2021-10-10T13:51:25.583Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h5 id=&quot;我在生活中有时使用一些产品的时候，真的是对某些产品设计厌恶至极，比如引入了无意义的复杂性，有的是设计了我实在不法理解的不便利的功能。希望不会误伤某些产品是我的使用方式出现了错误。&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="想法" scheme="http://www.qingshanzhang.com/categories/%E6%83%B3%E6%B3%95/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>在美国找信息安全和计算机类工作总结</title>
     <link href="http://www.qingshanzhang.com/2021/09/11/mei-guo-zhao-xin-xi-an-quan-gong-zuo-he-ji-suan-ji-lei-gong-zuo-zong-jie/"/>
     <id>http://www.qingshanzhang.com/2021/09/11/mei-guo-zhao-xin-xi-an-quan-gong-zuo-he-ji-suan-ji-lei-gong-zuo-zong-jie/</id>
     <published>2021-09-11T05:14:00.000Z</published>
-    <updated>2021-09-12T13:15:38.757Z</updated>
+    <updated>2021-09-18T03:23:28.966Z</updated>
     
     <summary type="html">
     
@@ -102,7 +127,7 @@
     <link href="http://www.qingshanzhang.com/2021/06/10/bi-yu/"/>
     <id>http://www.qingshanzhang.com/2021/06/10/bi-yu/</id>
     <published>2021-06-10T13:53:00.000Z</published>
-    <updated>2021-10-10T03:04:07.410Z</updated>
+    <updated>2021-10-10T03:08:08.024Z</updated>
     
     <summary type="html">
     
@@ -175,35 +200,6 @@
       <category term="Cloud Security" scheme="http://www.qingshanzhang.com/tags/Cloud-Security/"/>
     
       <category term="Kubernetes" scheme="http://www.qingshanzhang.com/tags/Kubernetes/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>SEED Labs实验回顾，总结，巩固，分享</title>
-    <link href="http://www.qingshanzhang.com/2020/12/06/seed/"/>
-    <id>http://www.qingshanzhang.com/2020/12/06/seed/</id>
-    <published>2020-12-07T04:32:00.000Z</published>
-    <updated>2020-12-09T00:53:26.437Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;根据雪城大学Wenliang Du教授的SEED Labs，尽可能多的实现其中的实验。先顺着Security and Privacy of Computing课做过的实验总结了。持续更新中。。。&lt;/p&gt;
-&lt;p&gt;先把目标提出来，期末调整好后马上开写。。。&lt;/p&gt;
-&lt;h2
-        
-      
-    
-    </summary>
-    
-    
-      <category term="信息安全" scheme="http://www.qingshanzhang.com/categories/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/"/>
-    
-      <category term="SEED Labs" scheme="http://www.qingshanzhang.com/categories/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/SEED-Labs/"/>
-    
     
   </entry>
   
