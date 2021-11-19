@@ -46,7 +46,7 @@
     <link href="http://www.qingshanzhang.com/2021/10/09/dui-la-ji-she-ji-de-tu-cao/"/>
     <id>http://www.qingshanzhang.com/2021/10/09/dui-la-ji-she-ji-de-tu-cao/</id>
     <published>2021-10-10T03:21:00.000Z</published>
-    <updated>2021-10-15T02:54:03.652Z</updated>
+    <updated>2021-11-19T03:41:58.087Z</updated>
     
     <summary type="html">
     
@@ -127,7 +127,7 @@
     <link href="http://www.qingshanzhang.com/2021/07/11/luan-tun/"/>
     <id>http://www.qingshanzhang.com/2021/07/11/luan-tun/</id>
     <published>2021-07-12T02:34:00.000Z</published>
-    <updated>2021-11-19T02:33:19.306Z</updated>
+    <updated>2021-11-19T02:36:44.375Z</updated>
     
     <summary type="html">
     
@@ -395,33 +395,6 @@
   </entry>
   
   <entry>
-    <title>剧本创作(Scripts writing)</title>
-    <link href="http://www.qingshanzhang.com/2020/09/29/kai-yuan-ju-ben-chuang-zuo-open-source-scripts/"/>
-    <id>http://www.qingshanzhang.com/2020/09/29/kai-yuan-ju-ben-chuang-zuo-open-source-scripts/</id>
-    <published>2020-09-29T19:10:00.000Z</published>
-    <updated>2021-06-27T22:00:08.722Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;我一直对于影视动漫的剧本创作很有兴趣，我相信我是一个十分有创造能力、想象力的人，即使我现在没有时间和能力实现我的想法，但我要记录现在点点滴滴的灵感。&lt;br&gt;github地址: &lt;a
-        
-      
-    
-    </summary>
-    
-    
-      <category term="想法" scheme="http://www.qingshanzhang.com/categories/%E6%83%B3%E6%B3%95/"/>
-    
-    
-      <category term="Thoughts" scheme="http://www.qingshanzhang.com/tags/Thoughts/"/>
-    
-  </entry>
-  
-  <entry>
     <title>我的AWS Solutions Architect Associate证书备考建议</title>
     <link href="http://www.qingshanzhang.com/2020/09/01/aws-saa-zheng-shu/"/>
     <id>http://www.qingshanzhang.com/2020/09/01/aws-saa-zheng-shu/</id>
@@ -558,6 +531,33 @@
     
     
       <category term="想法" scheme="http://www.qingshanzhang.com/categories/%E6%83%B3%E6%B3%95/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>好玩的Chrome插件集合(持续更新。。。)</title>
+    <link href="http://www.qingshanzhang.com/2020/07/10/hao-wan-de-chrome-cha-jian-ji-he/"/>
+    <id>http://www.qingshanzhang.com/2020/07/10/hao-wan-de-chrome-cha-jian-ji-he/</id>
+    <published>2020-07-11T02:54:20.000Z</published>
+    <updated>2020-12-18T21:42:11.497Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;!-- 英文博文加tag，中文博文加category --&gt;
+&lt;!-- 英文博文加tag，中文博文加category --&gt;
+&lt;p&gt;&lt;big&gt; 致谢：&lt;strong&gt;马向君&lt;/strong&gt;,
+        
+      
+    
+    </summary>
+    
+    
+      <category term="工具类" scheme="http://www.qingshanzhang.com/categories/%E5%B7%A5%E5%85%B7%E7%B1%BB/"/>
     
     
   </entry>
