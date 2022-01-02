@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.qingshanzhang.com/"/>
-  <updated>2022-01-01T22:25:13.141Z</updated>
+  <updated>2022-01-02T01:41:41.226Z</updated>
   <id>http://www.qingshanzhang.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>工作中的学习</title>
+    <link href="http://www.qingshanzhang.com/2022/01/01/gong-zuo-zhong-de-zong-jie/"/>
+    <id>http://www.qingshanzhang.com/2022/01/01/gong-zuo-zhong-de-zong-jie/</id>
+    <published>2022-01-02T01:25:00.000Z</published>
+    <updated>2022-01-02T01:41:41.226Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h5 id=&quot;记录对全职工作的工作中学习到的经验，感悟。10-25日之后开始更新&quot;&gt;&lt;a href=&quot;#记录对全职工作的工作中学习到的经验，感悟。10-25日之后开始更新&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="工作" scheme="http://www.qingshanzhang.com/categories/%E5%B7%A5%E4%BD%9C/"/>
+    
+      <category term="想法" scheme="http://www.qingshanzhang.com/categories/%E5%B7%A5%E4%BD%9C/%E6%83%B3%E6%B3%95/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>Notion挺好玩</title>
@@ -531,33 +558,6 @@
     
     
       <category term="想法" scheme="http://www.qingshanzhang.com/categories/%E6%83%B3%E6%B3%95/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>好玩的Chrome插件集合(持续更新。。。)</title>
-    <link href="http://www.qingshanzhang.com/2020/07/10/hao-wan-de-chrome-cha-jian-ji-he/"/>
-    <id>http://www.qingshanzhang.com/2020/07/10/hao-wan-de-chrome-cha-jian-ji-he/</id>
-    <published>2020-07-11T02:54:20.000Z</published>
-    <updated>2022-01-01T22:11:52.484Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;!-- 英文博文加tag，中文博文加category --&gt;
-&lt;!-- 英文博文加tag，中文博文加category --&gt;
-&lt;p&gt;&lt;big&gt; 致谢：&lt;strong&gt;马向君&lt;/strong&gt;,
-        
-      
-    
-    </summary>
-    
-    
-      <category term="工具" scheme="http://www.qingshanzhang.com/categories/%E5%B7%A5%E5%85%B7/"/>
     
     
   </entry>
