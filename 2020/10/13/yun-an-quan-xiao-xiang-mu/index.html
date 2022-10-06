@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="keywords" content="Cloud Computing Security Practice, Giotto&#39;s blog">
+    <meta name="keywords" content="云安全小项目, Giotto&#39;s blog">
     <meta name="description" content="Our lives will be legen...., wait for it..., dary, legendary!!">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
@@ -27,7 +27,7 @@
 </script>
 
 
-    <title>Cloud Computing Security Practice | Giotto&#39;s blog</title>
+    <title>云安全小项目 | Giotto&#39;s blog</title>
     <link rel="icon" type="image/png" href="https://cdn.jsdelivr.net/gh/Giotto12138/Giotto12138.github.io/favicon.png">
 
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/Giotto12138/Giotto12138.github.io/libs/awesome/css/all.css">
@@ -259,7 +259,7 @@
         <div class="row">
             <div class="col s12 m12 l12">
                 <div class="brand">
-                    <h1 class="description center-align post-title">Cloud Computing Security Practice</h1>
+                    <h1 class="description center-align post-title">云安全小项目</h1>
                 </div>
             </div>
         </div>
@@ -374,20 +374,25 @@
             <div class="row tag-cate">
                 <div class="col s7">
                     
-                    <div class="article-tag">
-                        
-                            <a href="/tags/Information-Security/">
-                                <span class="chip bg-color">Information Security</span>
-                            </a>
-                        
-                            <a href="/tags/Cloud-Security/">
-                                <span class="chip bg-color">Cloud Security</span>
-                            </a>
-                        
-                    </div>
+                          <div class="article-tag">
+                            <span class="chip bg-color">No tag</span>
+                          </div>
                     
                 </div>
                 <div class="col s5 right-align">
+                    
+                    <div class="post-cate">
+                        <i class="fas fa-bookmark fa-fw icon-category"></i>
+                        
+                            <a href="/categories/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/" class="post-category">
+                                信息安全
+                            </a>
+                        
+                            <a href="/categories/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/%E4%BA%91%E5%AE%89%E5%85%A8/" class="post-category">
+                                云安全
+                            </a>
+                        
+                    </div>
                     
                 </div>
             </div>
@@ -403,14 +408,14 @@
                 
                 <div class="post-date info-break-policy">
                     <i class="far fa-calendar-check fa-fw"></i>Update Date:&nbsp;&nbsp;
-                    2020-10-14
+                    2020-12-25
                 </div>
                 
 
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>Word Count:&nbsp;&nbsp;
-                    385
+                    736
                 </div>
                 
 
@@ -432,28 +437,29 @@
         <hr class="clearfix">
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <h1 id="website-address"><a href="#website-address" class="headerlink" title="website address:"></a>website address:</h1><p><a href="https://qingshan-cloud-security.ue.r.appspot.com/" target="_blank" rel="noopener">https://qingshan-cloud-security.ue.r.appspot.com/</a>  </p>
-<h1 id="GitHub-address"><a href="#GitHub-address" class="headerlink" title="GitHub address:"></a>GitHub address:</h1><p><a href="https://github.com/Giotto12138/Cloud-Computing-Security" target="_blank" rel="noopener">https://github.com/Giotto12138/Cloud-Computing-Security</a></p>
-<h2 id="Basic-functions"><a href="#Basic-functions" class="headerlink" title="Basic functions"></a>Basic functions</h2><ol>
-<li>A simple event management website based on Flask + GCP. Except for Google login page, all HTML and JavaScript is served statically to keep secure. </li>
-<li>Users can upload events and dates, or delete events.   </li>
-<li>The website could update the remaining time of the event in real time and delete expired events.  </li>
-<li>Yearless dates work, showing time to next occurrence of a matching date (e.g., 03-01 means “every March 1st”)  </li>
+                <p>一个小的云安全练习，来自JHU 2020Fall学期Cloud Computing Security课9月到10月的作业。建立一个基于GCP和Flask的，加入一些安全保护措施的网站。</p>
+<h1 id="网站地址"><a href="#网站地址" class="headerlink" title="网站地址:"></a>网站地址:</h1><p><a href="https://qingshan-cloud-security.ue.r.appspot.com/" target="_blank" rel="noopener">https://qingshan-cloud-security.ue.r.appspot.com/</a>  </p>
+<h1 id="GitHub地址"><a href="#GitHub地址" class="headerlink" title="GitHub地址:"></a>GitHub地址:</h1><p><a href="https://github.com/Giotto12138/Cloud-Computing-Security" target="_blank" rel="noopener">https://github.com/Giotto12138/Cloud-Computing-Security</a></p>
+<h2 id="基础功能"><a href="#基础功能" class="headerlink" title="基础功能"></a>基础功能</h2><ol>
+<li>一个基于GCP和Flask的事件管理网站。除了Google登录的页面，所有的页面都是静态的，防止传输的参数被利用来破坏安全性。</li>
+<li>用户可以上传事件和对应的日期，或者删除该事件。</li>
+<li>网站会事实计算每个事件距离目标日期的时间并显示，也会实时检测是否有过期事件并删除过期的。 </li>
+<li>用户可以输入完整的日期，如年-月-日，也可以只输入月-日，这样网站会默认该日期是该年的月-日，如果已过期，就设定为明年的月-日。  </li>
 </ol>
-<h2 id="Password-Based-Authentication"><a href="#Password-Based-Authentication" class="headerlink" title="Password-Based Authentication"></a>Password-Based Authentication</h2><ol>
-<li>Added authentication to the website. All of the events are tied to one and only one user; every user manages a unique set of data just for them. When not logged in, the user is automatically directed to a login page.  </li>
-<li>All interactions are over HTTPS to secure data transmitting.  </li>
-<li>Provided a registration page that allows the user to provide a username and password, then immediately logs them in and redirects them to the main page. If the username already exists, the user needs to input a new username.</li>
-<li>Provided a login page that allows the user to provide a username and password. If the username and password are valid, let the user log in.  </li>
-<li>Users must login with an opaque session token. Implemented this function without built-in functions like flask.session or flask.login. Users could register, login, and logout with a session token. Session tokens expire after 1 hour. Enforce this by deleting the cookie when an expired session token is used.  </li>
-<li>Added a logout button that invalidates the session token, removes the cookie, and redirects the user to the login page.  </li>
-<li>Only secure derivatives of passwords are stored in the database. Used Bcypt library for key stretching.  </li>
-<li>built a migration function, which could migrate old data to the first user (or a user that you want to have the original data).</li>
-<li>Check the login status of users in real time. JSON calls will redirect the entire browser window to the login page when they fail due to a missing (or expired) session token.  </li>
+<h2 id="认证部分"><a href="#认证部分" class="headerlink" title="认证部分"></a>认证部分</h2><ol>
+<li>所有的事件都和从属于的用户绑定。每个用户之间的事件是隔开的。当用户不在已登录状态时，用户会被自动引导到登录界面。</li>
+<li>所有的数据传输都是使用安全的HTTPS。</li>
+<li>网站提供一个注册页面，用户可以输入用户名和密码来注册。如果用户名已被使用，会被要求重新输入用户名。如果注册成功，用户会被立即导向主页面（事件管理页面）。 </li>
+<li>网站提供一个登录界面，用户输入用户名和密码。如果用户名和密码都正确，用户会成功登录到主页面，否则重新输入用户名和密码。</li>
+<li>用户登录时必须拥有一个session token。session功能的实现不通过内置的库比如flask-session或flask-login。用户注册，登出时，网站也会对session进行操作。每次登录，session的有效期是一小时。</li>
+<li>网站提供一个登出按钮在主页面。用户点击后会跳转到登录页面，同时session和cookie都会被删去。  </li>
+<li>用户的密码不会被明文保存。网站使用Bcrypt库来对密码进行哈希，然后保存到云端的数据库。 </li>
+<li>网站提供一个迁移数据函数。网站的第一个用户会获得网站之前的所有老数据（事件和日期）。该函数也可以被管理员用来迁移数据。</li>
+<li>用户的登录状态会被实时检测。如果用户没有一个合法的session token，或者token已经过期，用户会被强制跳转到登录界面。</li>
 </ol>
-<h2 id="Implement-an-OpenID-Connect-Client"><a href="#Implement-an-OpenID-Connect-Client" class="headerlink" title="Implement an OpenID Connect Client"></a>Implement an OpenID Connect Client</h2><ol>
-<li>Implemented an OpenID Connect Client to login with Google. Users could click a third-party OpenID Connect button to their login page.</li>
-<li>Added CSRF protection by double cookie verification.</li>
+<h2 id="使用OpenID-Connect来做第三方登录功能"><a href="#使用OpenID-Connect来做第三方登录功能" class="headerlink" title="使用OpenID Connect来做第三方登录功能"></a>使用OpenID Connect来做第三方登录功能</h2><ol>
+<li>实现OpenID Connect认证功能，并选取Google作为第三方登录平台。用户可以使用他们的Google账号来登录网站。</li>
+<li>通过cookie的二次验证增加CSRF保护，一定程度上保障网站安全。</li>
 </ol>
 
             </div>
@@ -470,7 +476,7 @@
                     </i>
                 </span>
                 <span class="reprint-info">
-                    <a href="/about" rel="external nofollow noreferrer">Qingshan Zhang</a>
+                    <a href="/about" rel="external nofollow noreferrer">张庆山</a>
                 </span>
             </div>
             <div class="reprint__type">
@@ -480,7 +486,7 @@
                     </i>
                 </span>
                 <span class="reprint-info">
-                    <a href="http://www.qingshanzhang.com/2020/10/13/cloud-computing-security-practice/">http://www.qingshanzhang.com/2020/10/13/cloud-computing-security-practice/</a>
+                    <a href="http://www.qingshanzhang.com/2020/10/13/yun-an-quan-xiao-xiang-mu/">http://www.qingshanzhang.com/2020/10/13/yun-an-quan-xiao-xiang-mu/</a>
                 </span>
             </div>
             <div class="reprint__notice">
@@ -493,7 +499,7 @@
                     All articles in this blog are used except for special statements
                     <a href="https://creativecommons.org/licenses/by/4.0/deed.zh" rel="external nofollow noreferrer" target="_blank">CC BY 4.0</a>
                     reprint polocy. If reproduced, please indicate source
-                    <a href="/about" target="_blank">Qingshan Zhang</a>
+                    <a href="/about" target="_blank">张庆山</a>
                     !
                 </span>
             </div>
@@ -517,15 +523,7 @@
                 <div class="post-meta__tag-list" style="display: inline-block;">
                     
                         <div class="article-tag">
-                            
-                                <a href="/tags/Information-Security/">
-                                    <span class="chip bg-color">Information Security</span>
-                                </a>
-                            
-                                <a href="/tags/Cloud-Security/">
-                                    <span class="chip bg-color">Cloud Security</span>
-                                </a>
-                            
+                            <span class="chip bg-color">No tag</span>
                         </div>
                     
                 </div>
@@ -958,39 +956,43 @@
             <div class="article-badge left-badge text-color">
                 <i class="fas fa-chevron-left"></i>&nbsp;Previous</div>
             <div class="card">
-                <a href="/2020/10/14/yun-an-quan-xiao-xiang-mu/">
+                <a href="/2020/10/13/a-discussion-on-multiple-authentication-strategies/">
                     <div class="card-image">
                         
-                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAMAAABOo35HAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9UExURVlZWdPT07KysmRkZIWFhfT09JmZmWZmZm9vb39/fxkZGUxMTDMzM3p6epCQkKamppubm729venp6cjIyN7e3tbW1s/Pz8LCwnx8fLS0tFZWVoiIiI+Pj6GhoeTk5Glpabu7u93d3evr66CgoJSUlKqqqsnJyeDg4Hd3d8PDw+Xl5bi4uNHR0dvb26Ojo6urq+fn51hYWDg4OCgoKHBwcK2traenp0FBQe7u7vHx8U5OTre3t8zMzHV1df///7GrnpQAAAA/dFJOU///////////////////////////////////////////////////////////////////////////////////AI4mfBcAAAUGSURBVHja7NoJb6M4GMZxY0NCD64kve/pMZ2d3Z297+X7f6zFNmBAMUXa6URl/q9UJSWPUPzrizFWRUlNLgEBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYYIEFAVhggQUWWGBBABZYYIEFFlgQgAUWWGCBBRYEYIEFFlhggQUBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYn6cCIcRXgvX/h9qcIVBqDdbEM8RCxGCB9QqXYRwHYDHBgwXWl8eKZKiESHI3Ba1kWs3fKixcaJUl1YyeBm7Ocq+yLItUiVBGnXxenSHJolIKEcwHq6ikbOX1YGVzQCTN8LPmSLreghUl9sN4Uw7yajMrLC0TZ1ImzqY6FEop0+pIaEN5HaoOxVuwEqFyc4I46uSlzOLqgxlh6UaR9l3VYWl9Fdoxb1Q90KJtu41pwwFW/WHhTtW8i7TafLCqRsk6bsGw63L9qurXRmuIlbT9lDQnlXU+nBFW1Q2qnZbDprWa2tjR90LZFqx1/+Td/HpGWLlrLDvIwTcx6dQ1Vrntbig68cDms3JwbA5Y1azs1ger6sNV/bbIw1jU81MvNAGrl58RVn8ozW+btF08iGFoAlYvP3csfVur1gJBEIA1uBmue5dhZDOyO2epbmgCVi8/I6x0MMHH9pjsTfBhNzQBq5uPZoQlB0uH3DZG4EZqQ26fL3sZq5uf09Ih6qw3i/pm6BZO0qZX7rrUS68Xsbr5ZE4rePMk08pk9aUZugfqppvs6AM1Acvlo/StP+6EbW06z8hJqxbYp2BZPQUnFsLsKuhQdaHqn5ewbF7KXIn0jWO5MqOQ7RaNLPtbNMmmhimj0GUmYLl8Gs0Lq4wyPbTu1l2QKqHSouzs3OlDIslW5SQsnY/NXmFplyNvEuuLV/Tau9BzwiraDUSwXmysztYWWNtL1psXeumgIrDGaqXvBfUuvtqUYI3V2t1wk1e2msFluJJm6zDJXv/fIfjPP7DAAgsssCiwwAILLLDAosACCyywwAKLAgsssMACC6zt9fDz/v75tyOB+98PD2+ORgKffjw4OP1uJPDxl+Xy8v1I4MPF3t7VNyOB4/vF4uzdzrG+39f1kz/w66Guv/yBvw90KX/gZKkr8Qf+2dOV+gNHC12/7RxrabD2/a31bLAO/a11YbAO/K21MFhLf2s9Gqw9f2vdGqzFu11jnVusE2/gxmI9eQOnFuvYG7i0WH7uK4t15w2cWazrXWP9a7H8f/bQYvm/6IPF+sF/pVssf19Ii/WH/0K2WH/uGuvEWC39gSdj9Twy+Rqri5EZx1gt/IE7Y/XoD1wbq9vd3w1PlufnD2OBp+ebm/uxwPHF6emnscDR4vLy41jg7vHq6sNY4Pr27OyYdRaLUrDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssL6u+k+AAQCR9eHtLKvLfwAAAABJRU5ErkJggg==" data-original="/medias/cloudsec/cover.png" class="responsive-img" alt="云安全小项目">
+                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAMAAABOo35HAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9UExURVlZWdPT07KysmRkZIWFhfT09JmZmWZmZm9vb39/fxkZGUxMTDMzM3p6epCQkKamppubm729venp6cjIyN7e3tbW1s/Pz8LCwnx8fLS0tFZWVoiIiI+Pj6GhoeTk5Glpabu7u93d3evr66CgoJSUlKqqqsnJyeDg4Hd3d8PDw+Xl5bi4uNHR0dvb26Ojo6urq+fn51hYWDg4OCgoKHBwcK2traenp0FBQe7u7vHx8U5OTre3t8zMzHV1df///7GrnpQAAAA/dFJOU///////////////////////////////////////////////////////////////////////////////////AI4mfBcAAAUGSURBVHja7NoJb6M4GMZxY0NCD64kve/pMZ2d3Z297+X7f6zFNmBAMUXa6URl/q9UJSWPUPzrizFWRUlNLgEBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYYIEFAVhggQUWWGBBABZYYIEFFlgQgAUWWGCBBRYEYIEFFlhggQUBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYn6cCIcRXgvX/h9qcIVBqDdbEM8RCxGCB9QqXYRwHYDHBgwXWl8eKZKiESHI3Ba1kWs3fKixcaJUl1YyeBm7Ocq+yLItUiVBGnXxenSHJolIKEcwHq6ikbOX1YGVzQCTN8LPmSLreghUl9sN4Uw7yajMrLC0TZ1ImzqY6FEop0+pIaEN5HaoOxVuwEqFyc4I46uSlzOLqgxlh6UaR9l3VYWl9Fdoxb1Q90KJtu41pwwFW/WHhTtW8i7TafLCqRsk6bsGw63L9qurXRmuIlbT9lDQnlXU+nBFW1Q2qnZbDprWa2tjR90LZFqx1/+Td/HpGWLlrLDvIwTcx6dQ1Vrntbig68cDms3JwbA5Y1azs1ger6sNV/bbIw1jU81MvNAGrl58RVn8ozW+btF08iGFoAlYvP3csfVur1gJBEIA1uBmue5dhZDOyO2epbmgCVi8/I6x0MMHH9pjsTfBhNzQBq5uPZoQlB0uH3DZG4EZqQ26fL3sZq5uf09Ih6qw3i/pm6BZO0qZX7rrUS68Xsbr5ZE4rePMk08pk9aUZugfqppvs6AM1Acvlo/StP+6EbW06z8hJqxbYp2BZPQUnFsLsKuhQdaHqn5ewbF7KXIn0jWO5MqOQ7RaNLPtbNMmmhimj0GUmYLl8Gs0Lq4wyPbTu1l2QKqHSouzs3OlDIslW5SQsnY/NXmFplyNvEuuLV/Tau9BzwiraDUSwXmysztYWWNtL1psXeumgIrDGaqXvBfUuvtqUYI3V2t1wk1e2msFluJJm6zDJXv/fIfjPP7DAAgsssCiwwAILLLDAosACCyywwAKLAgsssMACC6zt9fDz/v75tyOB+98PD2+ORgKffjw4OP1uJPDxl+Xy8v1I4MPF3t7VNyOB4/vF4uzdzrG+39f1kz/w66Guv/yBvw90KX/gZKkr8Qf+2dOV+gNHC12/7RxrabD2/a31bLAO/a11YbAO/K21MFhLf2s9Gqw9f2vdGqzFu11jnVusE2/gxmI9eQOnFuvYG7i0WH7uK4t15w2cWazrXWP9a7H8f/bQYvm/6IPF+sF/pVssf19Ii/WH/0K2WH/uGuvEWC39gSdj9Twy+Rqri5EZx1gt/IE7Y/XoD1wbq9vd3w1PlufnD2OBp+ebm/uxwPHF6emnscDR4vLy41jg7vHq6sNY4Pr27OyYdRaLUrDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssL6u+k+AAQCR9eHtLKvLfwAAAABJRU5ErkJggg==" data-original="/medias/authentication-strategies/cover.png" class="responsive-img" alt="A discussion on multiple authentication strategies">
                         
-                        <span class="card-title">云安全小项目</span>
+                        <span class="card-title">A discussion on multiple authentication strategies</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
                     <div class="summary block-with-text">
                         
-                            一个小的云安全练习，来自JHU 2020Fall学期Cloud Computing Security课9月到10月的作业。建立一个基于GCP和Flask的，加入一些安全保护措施的网站。
+                            Imagine a remote medical treatment system. What authentication strategy is recommended? Kerberos? SAML? Mutual TLS? OpenID Connect? or Facebook Login?
                         
                     </div>
                     <div class="publish-info">
                         <span class="publish-date">
-                            <i class="far fa-clock fa-fw icon-date"></i>2020-10-14
+                            <i class="far fa-clock fa-fw icon-date"></i>2020-10-13
                         </span>
                         <span class="publish-author">
                             
-                            <i class="fas fa-bookmark fa-fw icon-category"></i>
-                            
-                            <a href="/categories/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/" class="post-category">
-                                    信息安全
-                                </a>
-                            
-                            <a href="/categories/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/%E4%BA%91%E5%AE%89%E5%85%A8/" class="post-category">
-                                    云安全
-                                </a>
-                            
+                            <i class="fas fa-user fa-fw"></i>
+                            Qingshan Zhang
                             
                         </span>
                     </div>
+                </div>
+                
+                <div class="card-action article-tags">
+                    
+                    <a href="/tags/Information-Security/">
+                        <span class="chip bg-color">Information Security</span>
+                    </a>
+                    
+                    <a href="/tags/Authentication/">
+                        <span class="chip bg-color">Authentication</span>
+                    </a>
+                    
                 </div>
                 
             </div>
@@ -1002,39 +1004,43 @@
                 Next&nbsp;<i class="fas fa-chevron-right"></i>
             </div>
             <div class="card">
-                <a href="/2020/09/01/aws-saa-zheng-shu/">
+                <a href="/2020/10/12/cloud-computing-security-practice/">
                     <div class="card-image">
                         
-                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAMAAABOo35HAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9UExURVlZWdPT07KysmRkZIWFhfT09JmZmWZmZm9vb39/fxkZGUxMTDMzM3p6epCQkKamppubm729venp6cjIyN7e3tbW1s/Pz8LCwnx8fLS0tFZWVoiIiI+Pj6GhoeTk5Glpabu7u93d3evr66CgoJSUlKqqqsnJyeDg4Hd3d8PDw+Xl5bi4uNHR0dvb26Ojo6urq+fn51hYWDg4OCgoKHBwcK2traenp0FBQe7u7vHx8U5OTre3t8zMzHV1df///7GrnpQAAAA/dFJOU///////////////////////////////////////////////////////////////////////////////////AI4mfBcAAAUGSURBVHja7NoJb6M4GMZxY0NCD64kve/pMZ2d3Z297+X7f6zFNmBAMUXa6URl/q9UJSWPUPzrizFWRUlNLgEBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYYIEFAVhggQUWWGBBABZYYIEFFlgQgAUWWGCBBRYEYIEFFlhggQUBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYn6cCIcRXgvX/h9qcIVBqDdbEM8RCxGCB9QqXYRwHYDHBgwXWl8eKZKiESHI3Ba1kWs3fKixcaJUl1YyeBm7Ocq+yLItUiVBGnXxenSHJolIKEcwHq6ikbOX1YGVzQCTN8LPmSLreghUl9sN4Uw7yajMrLC0TZ1ImzqY6FEop0+pIaEN5HaoOxVuwEqFyc4I46uSlzOLqgxlh6UaR9l3VYWl9Fdoxb1Q90KJtu41pwwFW/WHhTtW8i7TafLCqRsk6bsGw63L9qurXRmuIlbT9lDQnlXU+nBFW1Q2qnZbDprWa2tjR90LZFqx1/+Td/HpGWLlrLDvIwTcx6dQ1Vrntbig68cDms3JwbA5Y1azs1ger6sNV/bbIw1jU81MvNAGrl58RVn8ozW+btF08iGFoAlYvP3csfVur1gJBEIA1uBmue5dhZDOyO2epbmgCVi8/I6x0MMHH9pjsTfBhNzQBq5uPZoQlB0uH3DZG4EZqQ26fL3sZq5uf09Ih6qw3i/pm6BZO0qZX7rrUS68Xsbr5ZE4rePMk08pk9aUZugfqppvs6AM1Acvlo/StP+6EbW06z8hJqxbYp2BZPQUnFsLsKuhQdaHqn5ewbF7KXIn0jWO5MqOQ7RaNLPtbNMmmhimj0GUmYLl8Gs0Lq4wyPbTu1l2QKqHSouzs3OlDIslW5SQsnY/NXmFplyNvEuuLV/Tau9BzwiraDUSwXmysztYWWNtL1psXeumgIrDGaqXvBfUuvtqUYI3V2t1wk1e2msFluJJm6zDJXv/fIfjPP7DAAgsssCiwwAILLLDAosACCyywwAKLAgsssMACC6zt9fDz/v75tyOB+98PD2+ORgKffjw4OP1uJPDxl+Xy8v1I4MPF3t7VNyOB4/vF4uzdzrG+39f1kz/w66Guv/yBvw90KX/gZKkr8Qf+2dOV+gNHC12/7RxrabD2/a31bLAO/a11YbAO/K21MFhLf2s9Gqw9f2vdGqzFu11jnVusE2/gxmI9eQOnFuvYG7i0WH7uK4t15w2cWazrXWP9a7H8f/bQYvm/6IPF+sF/pVssf19Ii/WH/0K2WH/uGuvEWC39gSdj9Twy+Rqri5EZx1gt/IE7Y/XoD1wbq9vd3w1PlufnD2OBp+ebm/uxwPHF6emnscDR4vLy41jg7vHq6sNY4Pr27OyYdRaLUrDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssL6u+k+AAQCR9eHtLKvLfwAAAABJRU5ErkJggg==" data-original="/medias/AWS-SAA/cover.png" class="responsive-img" alt="我的AWS Solutions Architect Associate证书备考建议">
+                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAMAAABOo35HAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9UExURVlZWdPT07KysmRkZIWFhfT09JmZmWZmZm9vb39/fxkZGUxMTDMzM3p6epCQkKamppubm729venp6cjIyN7e3tbW1s/Pz8LCwnx8fLS0tFZWVoiIiI+Pj6GhoeTk5Glpabu7u93d3evr66CgoJSUlKqqqsnJyeDg4Hd3d8PDw+Xl5bi4uNHR0dvb26Ojo6urq+fn51hYWDg4OCgoKHBwcK2traenp0FBQe7u7vHx8U5OTre3t8zMzHV1df///7GrnpQAAAA/dFJOU///////////////////////////////////////////////////////////////////////////////////AI4mfBcAAAUGSURBVHja7NoJb6M4GMZxY0NCD64kve/pMZ2d3Z297+X7f6zFNmBAMUXa6URl/q9UJSWPUPzrizFWRUlNLgEBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYYIEFAVhggQUWWGBBABZYYIEFFlgQgAUWWGCBBRYEYIEFFlhggQUBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYn6cCIcRXgvX/h9qcIVBqDdbEM8RCxGCB9QqXYRwHYDHBgwXWl8eKZKiESHI3Ba1kWs3fKixcaJUl1YyeBm7Ocq+yLItUiVBGnXxenSHJolIKEcwHq6ikbOX1YGVzQCTN8LPmSLreghUl9sN4Uw7yajMrLC0TZ1ImzqY6FEop0+pIaEN5HaoOxVuwEqFyc4I46uSlzOLqgxlh6UaR9l3VYWl9Fdoxb1Q90KJtu41pwwFW/WHhTtW8i7TafLCqRsk6bsGw63L9qurXRmuIlbT9lDQnlXU+nBFW1Q2qnZbDprWa2tjR90LZFqx1/+Td/HpGWLlrLDvIwTcx6dQ1Vrntbig68cDms3JwbA5Y1azs1ger6sNV/bbIw1jU81MvNAGrl58RVn8ozW+btF08iGFoAlYvP3csfVur1gJBEIA1uBmue5dhZDOyO2epbmgCVi8/I6x0MMHH9pjsTfBhNzQBq5uPZoQlB0uH3DZG4EZqQ26fL3sZq5uf09Ih6qw3i/pm6BZO0qZX7rrUS68Xsbr5ZE4rePMk08pk9aUZugfqppvs6AM1Acvlo/StP+6EbW06z8hJqxbYp2BZPQUnFsLsKuhQdaHqn5ewbF7KXIn0jWO5MqOQ7RaNLPtbNMmmhimj0GUmYLl8Gs0Lq4wyPbTu1l2QKqHSouzs3OlDIslW5SQsnY/NXmFplyNvEuuLV/Tau9BzwiraDUSwXmysztYWWNtL1psXeumgIrDGaqXvBfUuvtqUYI3V2t1wk1e2msFluJJm6zDJXv/fIfjPP7DAAgsssCiwwAILLLDAosACCyywwAKLAgsssMACC6zt9fDz/v75tyOB+98PD2+ORgKffjw4OP1uJPDxl+Xy8v1I4MPF3t7VNyOB4/vF4uzdzrG+39f1kz/w66Guv/yBvw90KX/gZKkr8Qf+2dOV+gNHC12/7RxrabD2/a31bLAO/a11YbAO/K21MFhLf2s9Gqw9f2vdGqzFu11jnVusE2/gxmI9eQOnFuvYG7i0WH7uK4t15w2cWazrXWP9a7H8f/bQYvm/6IPF+sF/pVssf19Ii/WH/0K2WH/uGuvEWC39gSdj9Twy+Rqri5EZx1gt/IE7Y/XoD1wbq9vd3w1PlufnD2OBp+ebm/uxwPHF6emnscDR4vLy41jg7vHq6sNY4Pr27OyYdRaLUrDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssL6u+k+AAQCR9eHtLKvLfwAAAABJRU5ErkJggg==" data-original="/medias/cloudsec/cover.png" class="responsive-img" alt="Cloud Computing Security Practice">
                         
-                        <span class="card-title">我的AWS Solutions Architect Associate证书备考建议</span>
+                        <span class="card-title">Cloud Computing Security Practice</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
                     <div class="summary block-with-text">
                         
-                            总结我考AWS SAA证书的过程，给出一些备考建议，希望想考的朋友可以少走弯路。
+                            A small cloud computing security practice from JHU 2020Fall cloud computing security course. A website based on GCP + Flask with some security measures.
                         
                     </div>
                     <div class="publish-info">
                             <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2020-09-01
+                                <i class="far fa-clock fa-fw icon-date"></i>2020-10-12
                             </span>
                         <span class="publish-author">
                             
-                            <i class="fas fa-bookmark fa-fw icon-category"></i>
-                            
-                            <a href="/categories/%E8%AF%81%E4%B9%A6/" class="post-category">
-                                    证书
-                                </a>
-                            
-                            <a href="/categories/%E8%AF%81%E4%B9%A6/AWS/" class="post-category">
-                                    AWS
-                                </a>
-                            
+                            <i class="fas fa-user fa-fw"></i>
+                            Qingshan Zhang
                             
                         </span>
                     </div>
+                </div>
+                
+                <div class="card-action article-tags">
+                    
+                    <a href="/tags/Information-Security/">
+                        <span class="chip bg-color">Information Security</span>
+                    </a>
+                    
+                    <a href="/tags/Cloud-Security/">
+                        <span class="chip bg-color">Cloud Security</span>
+                    </a>
+                    
                 </div>
                 
             </div>
@@ -1222,7 +1228,7 @@ code[class*="language-"], pre[class*="language-"] { white-space: pre !important;
             <br>
             
             &nbsp;<i class="fas fa-chart-area"></i>&nbsp;total words(站点总字数):&nbsp;<span
-                class="white-color">70.3k</span>&nbsp;字
+                class="white-color">70.5k</span>&nbsp;字
             
             
             
