@@ -175,34 +175,6 @@
   </entry>
   
   <entry>
-    <title>修道德经感悟</title>
-    <link href="http://www.qingshanzhang.com/2020/12/18/laozi/"/>
-    <id>http://www.qingshanzhang.com/2020/12/18/laozi/</id>
-    <published>2020-12-19T01:29:00.000Z</published>
-    <updated>2022-05-24T05:05:17.573Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;《道德经》，又称《老子》，分上下两篇，原文上篇《德经》、下篇《道经》，不分章，后改为《道经》37章在前，第38章之后为《德经》，并分为81章。&lt;/p&gt;
-&lt;p&gt;高中的时候，我为了写语文作文，在书店看到一本道德经注解，看到里面的文章很适合用来写高考要求的作文的论据段，就买回家。
-        
-      
-    
-    </summary>
-    
-    
-      <category term="想法" scheme="http://www.qingshanzhang.com/categories/%E6%83%B3%E6%B3%95/"/>
-    
-      <category term="道德经" scheme="http://www.qingshanzhang.com/categories/%E6%83%B3%E6%B3%95/%E9%81%93%E5%BE%B7%E7%BB%8F/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>Security Isolation of Kubernetes multi tenancy Cluster</title>
     <link href="http://www.qingshanzhang.com/2020/12/08/security-isolation-of-kubernetes-multi-tenancy-cluster/"/>
     <id>http://www.qingshanzhang.com/2020/12/08/security-isolation-of-kubernetes-multi-tenancy-cluster/</id>
@@ -562,6 +534,37 @@
     
       <category term="工具" scheme="http://www.qingshanzhang.com/categories/%E5%B7%A5%E5%85%B7/"/>
     
+    
+  </entry>
+  
+  <entry>
+    <title>Information Security &amp; Silicon Valley</title>
+    <link href="http://www.qingshanzhang.com/2020/07/08/silicon-valley-infosec/"/>
+    <id>http://www.qingshanzhang.com/2020/07/08/silicon-valley-infosec/</id>
+    <published>2020-07-08T07:00:00.000Z</published>
+    <updated>2020-10-15T01:28:12.633Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;!-- 英文博文加tag，中文博文加category --&gt;
+&lt;!-- 英文博文加tag，中文博文加category --&gt;
+&lt;!-- 英文博文加tag，中文博文加category --&gt;
+
+&lt;p&gt;Silicon Valley is one of my favorite
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Information Security" scheme="http://www.qingshanzhang.com/tags/Information-Security/"/>
+    
+      <category term="Movie and Television Program" scheme="http://www.qingshanzhang.com/tags/Movie-and-Television-Program/"/>
     
   </entry>
   
